@@ -4,7 +4,10 @@
 
 ## 수정 위치
 
-- `dist/index.html`: 소개, 강사, 운영 정보, 공지, 문의 연락처
+- `dist/index.html`: 간결한 메인 소개와 탐색 링크
+- `dist/curriculum.html`: 12주 과정과 작품 예시
+- `dist/about.html`: 강사, 교육 방식, 운영 취지
+- `dist/guide.html`: 준비물, FAQ, 공지, 문의 연락처
 - `dist/content.js`: 작품 예시, 12주 수업 내용, FAQ
 - `dist/styles.css`: 색상, 글꼴, 반응형 화면
 - `dist/app.js`: 과정 필터, 주차 상세 안내
